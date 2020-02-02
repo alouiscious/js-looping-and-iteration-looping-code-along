@@ -9,8 +9,6 @@
 
 // wrapGifts(gifts);
 
-// const recipients = ["Ada", "Brendan", "Ali"];
-// const holiday = "birthday";
 
 function writeCards(recipients, holiday) {
   let thankCard = []
